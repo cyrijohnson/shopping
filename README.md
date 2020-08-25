@@ -16,5 +16,4 @@
 
 * Android
 
-
-Personal Profile Page
+[Get in touch with me](https://www.linkedin.com/in/cyril-johnson-cj/)
